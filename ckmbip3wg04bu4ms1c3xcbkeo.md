@@ -1,3 +1,18 @@
 ## My First Month Experience As An Engineering Intern
 
-undefined
+
+This year, I started my first internship ever as a Frontend Engineer with Evolve Credit. I am a 500 level student of Obafemi Awolowo University studying computer science with Economics. My parents believe girls should not go into the technology world so diving into the technology sector was not smooth. All this made getting this internship a big deal for me as it represented a stepping stone in my career.
+
+Evolve Credit is an online marketplace where people can get information about different financial products, personalized recommendations for their unique money needs, and apply for loans. We provide an end-to-end backend software that gives lenders everything they need to manage their loan application process. This means that a financial institution with its products offline can go online. Through the platform, they'll be able to receive loan applications, manage their portfolio, automate credit scoring, and disburse and collect payments. Sophisticated right?? Lol, right. It’s also very simple.
+
+During my orientation with Akan, Evolve Credit’s CEO, he told me that once I came onboard, I’d be thrown into the deep end. “But don’t be scared.” Really? Don’t be scared? Who hears that and won't get scared?? I just told him I wasn't scared and all(big lie), I was scared. This was my first internship or experience working with a team and I didn’t know what to expect.
+
+I also met Daniel Codebeast and Collins during my interviews. We make up the product development team at Evolve Credit. My first day on the job I met Joseph, Ohotu, Soji, and Nnaemeka from the general team. I was nervous and all, but my response to being nervous is to smile so I smiled throughout the entire meeting; from the introductions to the briefing and assigning tasks for the day. I just kept smiling.
+
+Akan asked Daniel and Joseph to make sure to assign tasks to me. He said “make sure she’s not idle. Give her everything she needs to work.” And then he tells me to disturb them to give me work! It was more like - Dami you must work today, you are not here to play. The meetings were intense for me. I just knew this is an intense team when it comes to working.
+
+I got my first task that same day - to go through the codebase of the products and try to figure them out. I tried my best in doing that but I was seriously clueless. I just understood some things I had learned from my personal projects and all.
+
+But my next meeting was less intense, probably because I had met everyone, I did not have to talk except I was asked directly and everyone completed their tasks for the Anti-theft game(If you know you know). Tasks were given again and mine was to design the admin dashboard. I was like this I can do… The codebase was scary! Scary!!! Next thing I had to do in the following days was update the dashboard with live data. I was a bit worried about how I would do it. But, as usual, Daniel and Collins kept urging me to ask questions, to not be shy or afraid to ask questions and all. To be honest, I was still scared as it was my first real experience in engineering...
+
+In the end, I didn't have any issues at all during my first month as an engineering intern. Before I started working, everything was explained to me, examples were given which made everything so easy and still is for me. If I had any blockers, I was assisted almost immediately. Everything went so smoothly and I owe it to my awesome Engineering team. I love working with them. It is fun, challenging, and uncomfortable, but I have learned a lot in a short while. I also love the whole team in general. You guys, I am in love with Evolve 😇
